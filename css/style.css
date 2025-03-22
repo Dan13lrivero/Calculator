@@ -40,7 +40,7 @@ body {
   font-weight: 800;
 }
 .calculator #equal {
-  height: 130px;
+  height: 60px;
 }
 .calculator button#clear {
   background-color: #0a0db1;
